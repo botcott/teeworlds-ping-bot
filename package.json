@@ -1,0 +1,26 @@
+{
+  "name": "tw-bot-pinging",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/TeeTools/tw-bot-pinging#readme",
+  "bugs": {
+    "url": "https://github.com/TeeTools/tw-bot-pinging/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeeTools/tw-bot-pinging.git"
+  },
+  "license": "ISC",
+  "author": "botcott",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "teeworlds": "^2.5.4",
+    "yaml": "^2.6.1"
+  }
+}

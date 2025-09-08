@@ -1,0 +1,12 @@
+server:
+  ip: '255.255.255.255'
+  port: 8303
+
+client: 
+  name: 'default-tee'
+  clan: ''
+  skin: 'default'
+  
+  version: 19020
+  password: ''
+  spectate: true
