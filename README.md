@@ -1,2 +1,2 @@
 # teeworlds-ping-bot
-Test commit
+Test commit 2
